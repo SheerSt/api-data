@@ -327,6 +327,10 @@
             "url": "/api/v2/pokemon-species/831/"
         },
         {
+            "name": "solgaleo",
+            "url": "/api/v2/pokemon-species/791/"
+        },
+        {
             "name": "cinderace",
             "url": "/api/v2/pokemon-species/815/"
         },
@@ -355,14 +359,6 @@
             "url": "/api/v2/pokemon-species/666/"
         },
         {
-            "name": "solgaleo",
-            "url": "/api/v2/pokemon-species/791/"
-        },
-        {
-            "name": "cursola",
-            "url": "/api/v2/pokemon-species/864/"
-        },
-        {
             "name": "sirfetchd",
             "url": "/api/v2/pokemon-species/865/"
         },
@@ -373,6 +369,10 @@
         {
             "name": "frosmoth",
             "url": "/api/v2/pokemon-species/873/"
+        },
+        {
+            "name": "cursola",
+            "url": "/api/v2/pokemon-species/864/"
         }
     ]
 }

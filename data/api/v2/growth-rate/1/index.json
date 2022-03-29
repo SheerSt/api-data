@@ -1125,6 +1125,10 @@
             "url": "/api/v2/pokemon-species/790/"
         },
         {
+            "name": "solgaleo",
+            "url": "/api/v2/pokemon-species/791/"
+        },
+        {
             "name": "lunala",
             "url": "/api/v2/pokemon-species/792/"
         },
@@ -1221,8 +1225,8 @@
             "url": "/api/v2/pokemon-species/473/"
         },
         {
-            "name": "solgaleo",
-            "url": "/api/v2/pokemon-species/791/"
+            "name": "barraskewda",
+            "url": "/api/v2/pokemon-species/847/"
         },
         {
             "name": "hattrem",
@@ -1243,10 +1247,6 @@
         {
             "name": "urshifu",
             "url": "/api/v2/pokemon-species/892/"
-        },
-        {
-            "name": "barraskewda",
-            "url": "/api/v2/pokemon-species/847/"
         }
     ]
 }
